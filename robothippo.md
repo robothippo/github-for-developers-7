@@ -4,4 +4,4 @@
 - **Location:** Europe
 - **Favorite food:** Apples
 - **Hobby:** Walking
-- **Favorite color:** Blue
+- **Favorite color:** Red
